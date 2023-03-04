@@ -1,2 +1,2 @@
-# new
-theme: minima
+# new ты ллд
+theme: Architect
